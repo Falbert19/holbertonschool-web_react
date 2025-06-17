@@ -1,0 +1,1 @@
+In this repo will contain TypeScript task for learning purposes.
